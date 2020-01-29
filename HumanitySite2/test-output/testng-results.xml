@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88460" started-at="2020-01-28T19:28:55 CET" finished-at="2020-01-28T19:30:23 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88460" started-at="2020-01-28T19:28:55 CET" finished-at="2020-01-28T19:30:23 CET">
+      <class name="tests.MainTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.MainTest@627551fb]" name="setup" is-config="true" duration-ms="6080" started-at="2020-01-28T19:28:55 CET" finished-at="2020-01-28T19:29:01 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="basicLogin()[pri:0, instance:tests.MainTest@627551fb]" name="basicLogin" duration-ms="30950" started-at="2020-01-28T19:29:01 CET" finished-at="2020-01-28T19:29:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicLogin -->
+        <test-method status="PASS" signature="Dashboard()[pri:5, instance:tests.MainTest@627551fb]" name="Dashboard" duration-ms="2496" started-at="2020-01-28T19:29:32 CET" finished-at="2020-01-28T19:29:34 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard -->
+        <test-method status="PASS" signature="Planning()[pri:6, instance:tests.MainTest@627551fb]" name="Planning" duration-ms="1984" started-at="2020-01-28T19:29:34 CET" finished-at="2020-01-28T19:29:36 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Planning -->
+        <test-method status="PASS" signature="Time()[pri:7, instance:tests.MainTest@627551fb]" name="Time" duration-ms="1859" started-at="2020-01-28T19:29:36 CET" finished-at="2020-01-28T19:29:38 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Time -->
+        <test-method status="PASS" signature="Leave()[pri:8, instance:tests.MainTest@627551fb]" name="Leave" duration-ms="1388" started-at="2020-01-28T19:29:38 CET" finished-at="2020-01-28T19:29:40 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Leave -->
+        <test-method status="PASS" signature="Training()[pri:9, instance:tests.MainTest@627551fb]" name="Training" duration-ms="1310" started-at="2020-01-28T19:29:40 CET" finished-at="2020-01-28T19:29:41 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Training -->
+        <test-method status="PASS" signature="Staff()[pri:10, instance:tests.MainTest@627551fb]" name="Staff" duration-ms="1386" started-at="2020-01-28T19:29:41 CET" finished-at="2020-01-28T19:29:42 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Staff -->
+        <test-method status="PASS" signature="Payroll()[pri:11, instance:tests.MainTest@627551fb]" name="Payroll" duration-ms="1341" started-at="2020-01-28T19:29:42 CET" finished-at="2020-01-28T19:29:44 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payroll -->
+        <test-method status="PASS" signature="Reports()[pri:12, instance:tests.MainTest@627551fb]" name="Reports" duration-ms="1574" started-at="2020-01-28T19:29:44 CET" finished-at="2020-01-28T19:29:45 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reports -->
+        <test-method status="PASS" signature="AddingStaff1()[pri:13, instance:tests.MainTest@627551fb]" name="AddingStaff1" duration-ms="4306" started-at="2020-01-28T19:29:45 CET" finished-at="2020-01-28T19:29:50 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingStaff1 -->
+        <test-method status="PASS" signature="AddingStaff2()[pri:14, instance:tests.MainTest@627551fb]" name="AddingStaff2" duration-ms="2178" started-at="2020-01-28T19:29:50 CET" finished-at="2020-01-28T19:29:52 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingStaff2 -->
+        <test-method status="PASS" signature="Profile()[pri:15, instance:tests.MainTest@627551fb]" name="Profile" duration-ms="2619" started-at="2020-01-28T19:29:52 CET" finished-at="2020-01-28T19:29:54 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profile -->
+        <test-method status="PASS" signature="EditProfile()[pri:16, instance:tests.MainTest@627551fb]" name="EditProfile" duration-ms="8417" started-at="2020-01-28T19:29:54 CET" finished-at="2020-01-28T19:30:03 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditProfile -->
+        <test-method status="PASS" signature="EditProfile2()[pri:17, instance:tests.MainTest@627551fb]" name="EditProfile2" duration-ms="3565" started-at="2020-01-28T19:30:03 CET" finished-at="2020-01-28T19:30:06 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditProfile2 -->
+        <test-method status="PASS" signature="Profile1()[pri:18, instance:tests.MainTest@627551fb]" name="Profile1" duration-ms="2447" started-at="2020-01-28T19:30:06 CET" finished-at="2020-01-28T19:30:09 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profile1 -->
+        <test-method status="PASS" signature="Settings()[pri:19, instance:tests.MainTest@627551fb]" name="Settings" duration-ms="3492" started-at="2020-01-28T19:30:09 CET" finished-at="2020-01-28T19:30:12 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Settings -->
+        <test-method status="PASS" signature="Availability()[pri:20, instance:tests.MainTest@627551fb]" name="Availability" duration-ms="3570" started-at="2020-01-28T19:30:12 CET" finished-at="2020-01-28T19:30:16 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Availability -->
+        <test-method status="PASS" signature="LogOut()[pri:21, instance:tests.MainTest@627551fb]" name="LogOut" duration-ms="7294" started-at="2020-01-28T19:30:16 CET" finished-at="2020-01-28T19:30:23 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:tests.MainTest@627551fb]" name="quit" is-config="true" duration-ms="4" started-at="2020-01-28T19:30:23 CET" finished-at="2020-01-28T19:30:23 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- tests.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
